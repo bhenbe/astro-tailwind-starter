@@ -1,6 +1,6 @@
 module.exports = {
     content: [
         './public/**/*.html',
-        './src/**/*.{astro,js,jsx,svelte,ts,tsx,vue}',
+        './src/**/*.{css,astro,js,jsx,svelte,ts,tsx,vue}',
     ],
 };
