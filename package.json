@@ -1,0 +1,15 @@
+{
+  "name": "@bhenbe/astro-tailwind-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^0.22.14",
+    "tailwindcss": "^3.0.15"
+  }
+}
